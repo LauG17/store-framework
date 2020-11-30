@@ -1,7 +1,15 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
-      
+      "rich-text"
     ]
+  },
+  "rich-text": {
+    "props": {
+      "text": "**Hello, World!**",
+      "textColor": "c-on-base",
+      "font": "t-heading-5",
+      "textPosition": "RIGHT"
+    }
   }
 }
