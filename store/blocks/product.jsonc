@@ -5,11 +5,6 @@
         "flex-layout.row#main"
       ]
     },
-    "breadcrumb": {
-      "props": {
-        "showOnMobile": true
-      }
-    },
     "flex-layout.row#main": { 
       "props": { 
         "marginTop": 6
@@ -33,6 +28,7 @@
         "product-name",
         "product-identifier.product",
         "product-price",
+        "flex-layout.col#qty-sku",
         "buy-button"
       ]
     },
@@ -48,7 +44,7 @@
         "showListPrice": true
       }
     },
-    "flex-layout.row#qty-sku": {
+    "flex-layout.col#qty-sku": {
       "children": [
         "sku-selector",
         "product-quantity",
