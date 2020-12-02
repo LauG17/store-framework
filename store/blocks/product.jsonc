@@ -56,11 +56,6 @@
         "shipping-simulator"
       ]
     },
-    "sku-selector": {
-      "props": {
-        "hideImpossibleCombinations": true
-      }
-    },
     "buy-button": {
       "props": {
         "isOneClickBuy": true,
