@@ -28,7 +28,7 @@
         "product-name",
         "product-identifier.product",
         "product-price",
-        "flex-layout.col#qty-sku",
+        "flex-layout.row#right",
         "buy-button"
       ]
     },
@@ -44,7 +44,7 @@
         "showListPrice": true
       }
     },
-    "flex-layout.col#qty-sku": {
+    "flex-layout.row#right": {
       "children": [
         "sku-selector",
         "product-quantity",
