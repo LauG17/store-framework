@@ -43,17 +43,17 @@
         ],
       
         "props": {
+          "inverted":true,
           "sticky": true,
-          "inverted":true
+          "fullWidth":false
         }
       },
       "header-row#main-mobile": {
         "children": [
-            "logo",
-            "header-spacer",
-            "search-bar",
-            "minicart",
-            "login"
+          "logo",
+          "header-spacer",
+          "minicart",
+          "login"
         ],
       
         "props": {
