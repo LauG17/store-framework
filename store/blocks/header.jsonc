@@ -49,10 +49,11 @@
       },
       "header-row#main-mobile": {
         "children": [
-          "logo",
-          "header-spacer",
-          "minicart",
-          "login"
+            "logo",
+            "header-spacer",
+            "search-bar",
+            "minicart",
+            "login"
         ],
       
         "props": {
